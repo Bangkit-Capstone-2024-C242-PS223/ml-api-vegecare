@@ -1,0 +1,192 @@
+{
+  "Cabai__Healthy": {
+    "general_care": "Regularly inspect plants and maintain proper watering schedules",
+    "treatment": "No treatment needed for healthy plants",
+    "prevention": "Continue good agricultural practices and pest monitoring"
+  },
+  "Cabai__Leaf_Curl": {
+    "general_care": "Ensure proper spacing and monitor for pest activity",
+    "treatment": "Remove infected leaves and apply neem oil or suitable pesticides",
+    "prevention": "Plant resistant varieties and control vector insects like whiteflies"
+  },
+  "Cabai__Leaf_Spot": {
+    "general_care": "Keep foliage dry and remove infected debris",
+    "treatment": "Apply copper-based fungicides to manage the disease",
+    "prevention": "Rotate crops and avoid planting in areas with previous infections"
+  },
+  "Cabai__Whitefly": {
+    "general_care": "Inspect the underside of leaves regularly for whiteflies",
+    "treatment": "Use yellow sticky traps and spray insecticidal soap",
+    "prevention": "Introduce natural predators like ladybugs or lacewings"
+  },
+  "Cabai__Yellowish": {
+    "general_care": "Monitor soil nutrient levels and ensure balanced fertilization",
+    "treatment": "Add nitrogen-rich fertilizers if necessary",
+    "prevention": "Avoid overwatering and use well-draining soil"
+  },
+  "Kembang Kol__Bacterial_Spot_Rot": {
+    "general_care": "Avoid handling plants when wet and ensure proper spacing",
+    "treatment": "Remove affected areas and apply copper-based bactericides",
+    "prevention": "Use certified disease-free seeds and rotate crops"
+  },
+  "Kembang Kol__Black_Rot": {
+    "general_care": "Water plants at the base to minimize leaf wetness",
+    "treatment": "Destroy infected plants and disinfect tools",
+    "prevention": "Plant resistant varieties and practice crop rotation"
+  },
+  "Kembang Kol__Downy_Mildew": {
+    "general_care": "Ensure adequate air circulation and avoid overhead irrigation",
+    "treatment": "Apply fungicides containing mancozeb or chlorothalonil",
+    "prevention": "Use resistant cultivars and rotate crops"
+  },
+  "Kembang Kol__Healthy": {
+    "general_care": "Continue regular maintenance and pest monitoring",
+    "treatment": "No treatment needed for healthy plants",
+    "prevention": "Practice good hygiene and proper fertilization"
+  },
+  "Lettuce_Bacterial": {
+    "general_care": "Avoid wet foliage and ensure good drainage",
+    "treatment": "Apply copper bactericides as needed",
+    "prevention": "Plant in well-drained soil and avoid overcrowding"
+  },
+  "Lettuce__Fungal": {
+    "general_care": "Provide adequate air circulation and sunlight",
+    "treatment": "Apply fungicides such as chlorothalonil or sulfur-based treatments",
+    "prevention": "Water early in the day to allow leaves to dry"
+  },
+  "Lettuce__Healthy": {
+    "general_care": "Maintain consistent moisture levels and remove weeds",
+    "treatment": "No treatment required for healthy plants",
+    "prevention": "Use disease-resistant varieties and maintain clean cultivation"
+  },
+  "Sawi_Hama_Ulat_Grayak": {
+    "general_care": "Inspect plants regularly for signs of caterpillars",
+    "treatment": "Handpick caterpillars and apply Bacillus thuringiensis (Bt) sprays",
+    "prevention": "Introduce natural predators like parasitic wasps"
+  },
+  "Sawi_Healthy": {
+    "general_care": "Water evenly and remove weeds regularly",
+    "treatment": "No treatment needed for healthy plants",
+    "prevention": "Practice crop rotation and maintain good hygiene"
+  },
+  "Terong__Healthy_Leaf": {
+    "general_care": "Regularly water and fertilize plants as needed",
+    "treatment": "No treatment required for healthy leaves",
+    "prevention": "Monitor for pests and diseases"
+  },
+  "Terong__Insect_Pest_Disease": {
+    "general_care": "Inspect plants for signs of insect damage",
+    "treatment": "Apply insecticidal soap or neem oil",
+    "prevention": "Encourage beneficial insects and practice crop rotation"
+  },
+  "Terong__Leaf_Spot_Disease": {
+    "general_care": "Remove and dispose of infected leaves",
+    "treatment": "Apply copper-based fungicides or chlorothalonil",
+    "prevention": "Avoid overhead watering and ensure proper spacing"
+  },
+  "Terong__Mosaic_Virus_Disease": {
+    "general_care": "Monitor plants regularly and remove infected leaves",
+    "treatment": "Remove and destroy infected plants as there is no cure",
+    "prevention": "Use virus-free seeds and control aphid populations, which spread the virus"
+  },
+  "Terong__Small_Leaf_Disease": {
+    "general_care": "Ensure adequate nutrient supply and proper irrigation",
+    "treatment": "Apply balanced fertilizers and inspect for pests or infections",
+    "prevention": "Maintain soil fertility and avoid water stress"
+  },
+  "Terong__White_Mold_Disease": {
+    "general_care": "Promote good air circulation and avoid overhead watering",
+    "treatment": "Apply fungicides containing thiophanate-methyl or boscalid",
+    "prevention": "Use crop rotation and avoid planting in contaminated soil"
+  },
+  "Terong__Wilt_Disease": {
+    "general_care": "Ensure proper drainage and avoid waterlogging",
+    "treatment": "Remove and destroy infected plants, and sterilize the soil if possible",
+    "prevention": "Plant resistant varieties and apply soil solarization techniques"
+  },
+  "Timun__Anthracnose": {
+    "general_care": "Ensure proper drainage and avoid water splashing on leaves",
+    "treatment": "Apply fungicides like chlorothalonil or mancozeb",
+    "prevention": "Practice crop rotation and avoid planting in infected soil"
+  },
+  "Timun__Bacterial_Wilt": {
+    "general_care": "Inspect plants regularly for signs of wilting",
+    "treatment": "Remove and destroy infected plants immediately",
+    "prevention": "Control cucumber beetles, the primary vectors of the disease"
+  },
+  "Timun__Belly_Rot": {
+    "general_care": "Ensure fruits are elevated off the soil using mulch or supports",
+    "treatment": "Apply fungicides containing azoxystrobin if necessary",
+    "prevention": "Avoid excessive watering and improve soil drainage"
+  },
+  "Timun__Downy_Mildew": {
+    "general_care": "Promote good air circulation by proper spacing of plants",
+    "treatment": "Apply fungicides like mancozeb or chlorothalonil",
+    "prevention": "Use resistant varieties and avoid wetting leaves during watering"
+  },
+  "Timun__Fresh_Leaf": {
+    "general_care": "Maintain consistent watering and proper fertilization",
+    "treatment": "No treatment needed for fresh, healthy leaves",
+    "prevention": "Continue regular monitoring and good agricultural practices"
+  },
+  "Timun__Gummy_Stem_Blight": {
+    "general_care": "Avoid injuring stems and ensure proper crop rotation",
+    "treatment": "Apply fungicides containing boscalid or azoxystrobin",
+    "prevention": "Sanitize tools and plant resistant varieties if available"
+  },
+  "Timun__Pythium_Fruit_Rot": {
+    "general_care": "Avoid waterlogged conditions and improve soil drainage",
+    "treatment": "Apply soil fungicides containing metalaxyl",
+    "prevention": "Use raised beds and avoid overwatering"
+  },
+  "Tomato__Bacterial_Spot": {
+    "general_care": "Avoid overhead irrigation and ensure good air circulation",
+    "treatment": "Apply copper-based bactericides to limit spread",
+    "prevention": "Plant disease-free seeds and practice crop rotation"
+  },
+  "Tomato__Early_Blight": {
+    "general_care": "Remove infected leaves and avoid wetting foliage",
+    "treatment": "Apply fungicides such as mancozeb or chlorothalonil",
+    "prevention": "Use resistant varieties and provide balanced fertilization"
+  },
+  "Tomato__Healthy": {
+    "general_care": "Maintain consistent watering and fertilization schedules",
+    "treatment": "No treatment needed for healthy plants",
+    "prevention": "Continue pest and disease monitoring regularly"
+  },
+  "Tomato__Late_Blight": {
+    "general_care": "Ensure good drainage and avoid wetting leaves",
+    "treatment": "Remove infected plants and apply copper-based fungicides",
+    "prevention": "Use disease-resistant varieties and practice crop rotation"
+  },
+  "Tomato__Leaf_Mold": {
+    "general_care": "Ensure adequate air circulation and avoid overcrowding",
+    "treatment": "Apply fungicides like chlorothalonil or sulfur-based treatments",
+    "prevention": "Water plants early in the day and keep leaves dry"
+  },
+  "Tomato__Septoria_Leaf_Spot": {
+    "general_care": "Remove and destroy infected leaves promptly",
+    "treatment": "Apply fungicides such as maneb or chlorothalonil",
+    "prevention": "Rotate crops and avoid working with wet plants"
+  },
+  "Tomato__Spider_Mites_Two-Spotted_Spider_Mite": {
+    "general_care": "Inspect plants regularly for webbing or yellowing leaves",
+    "treatment": "Spray plants with insecticidal soap or neem oil",
+    "prevention": "Maintain proper humidity levels to deter spider mites"
+  },
+  "Tomato__Target_Spot": {
+    "general_care": "Keep foliage dry and maintain good air circulation",
+    "treatment": "Apply fungicides containing azoxystrobin or mancozeb",
+    "prevention": "Use disease-resistant varieties and practice crop rotation"
+  },
+  "Tomato__Tomato_Mosaic_Virus": {
+    "general_care": "Sanitize tools and avoid handling plants when wet",
+    "treatment": "Remove infected plants immediately to prevent spread",
+    "prevention": "Use certified virus-free seeds and resistant varieties"
+  },
+  "Tomato__Tomato_Yellow_Leaf_Curl_Virus": {
+    "general_care": "Control whitefly populations using sticky traps or neem oil",
+    "treatment": "Remove infected plants and apply insecticides as needed",
+    "prevention": "Plant resistant varieties and use reflective mulches"
+  }
+}
