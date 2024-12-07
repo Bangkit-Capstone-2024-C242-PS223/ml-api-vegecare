@@ -38,7 +38,7 @@ def predict():
 
     prediction = model.predict(image_bytes)
 
-    full_key = f"{prediction_result['plant_name']}__{prediction_result['condition']}"
+    full_key = f"{prediction['plant_name']}__{prediction['condition']}"
 
     care_info = CARE_RECOMMENDATIONS.get(
         full_key,
@@ -52,9 +52,9 @@ def predict():
 
     response = {
         "prediction": {
-            "plant_name": prediction_result["plant_name"],
-            "condition": prediction_result["condition"],
-            "confidence": prediction_result["confidence"],
+            "plant_name": prediction["plant_name"],
+            "condition": prediction["condition"],
+            "confidence": prediction["confidence"],
         },
         "plant_care": {
             "general_info": care_info.get("general_info", "No information available"),
