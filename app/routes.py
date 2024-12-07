@@ -29,8 +29,10 @@ def predict():
 
     prediction = model.predict(image_bytes)
 
+    class_key = f"{prediction['plant_name']}__{prediction['condition']}"
+
     care_info = CARE_RECOMMENDATIONS.get(
-        prediction["class"],
+        class_key,
         {
             "general_info": "This is some general information about the plant disease.",
             "general_care": "Consult a local agricultural expert for specific care instructions.",
@@ -38,6 +40,7 @@ def predict():
             "prevention": "Maintain good plant hygiene and monitoring.",
         },
     )
+
 
     response = {"disease_prediction": prediction, "plant_care": care_info}
 
