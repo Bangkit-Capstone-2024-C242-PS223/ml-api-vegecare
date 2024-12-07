@@ -1,7 +1,7 @@
 from flask import Flask, request, jsonify
 import json
 import os
-from model import VegeCareModel
+from .model import VegeCareModel
 
 ALLOWED_EXTENSIONS = {"png", "jpg", "jpeg"}
 app = Flask(__name__)
