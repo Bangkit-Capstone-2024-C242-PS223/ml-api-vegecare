@@ -4,7 +4,6 @@ import numpy as np
 from PIL import Image
 import io
 
-
 class VegeCareModel:
     def __init__(self, model_path):
         self.model = keras.models.load_model(model_path)
@@ -89,6 +88,9 @@ class VegeCareModel:
             "Tomato__Tomato_Mosaic_Virus": "Tomat__Virus Mosaik",
             "Tomato__Tomato_Yellow_Leaf_Curl_Virus": "Tomat__Kuning Keriting",
         }
+
+    def translate_label(self, label):
+        return self.translation_map.get(label, label)
 
     def parse_prediction(self, predicted_class):
         if "__" in predicted_class:
