@@ -30,7 +30,7 @@ def predict():
     prediction = model.predict(image_bytes)
 
     care_info = CARE_RECOMMENDATIONS.get(
-    prediction["condition"],
+        prediction["condition"],
         {
             "general_info": "This is some general information about the plant disease.",
             "general_care": "Consult a local agricultural expert for specific care instructions.",
