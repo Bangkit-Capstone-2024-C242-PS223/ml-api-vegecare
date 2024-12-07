@@ -3,13 +3,17 @@ import json
 import os
 from .model import VegeCareModel
 
+ALLOWED_EXTENSIONS = {"png", "jpg", "jpeg"}
 app = Flask(__name__)
 model = VegeCareModel("/app/models/vegecare_model_mobilenetv2finetune.h5")
 
 # Load care recommendations
-with open("/app/data/care_recommendations.json", "r") as f:
+with open("/app/data/care_recommendations_bahasa.json", "r") as f:
     CARE_RECOMMENDATIONS = json.load(f)
 
+def allowed_file(filename):
+    # Memastikan file memiliki ekstensi yang valid
+    return "." in filename and filename.rsplit(".", 1)[1].lower() in ALLOWED_EXTENSIONS
 
 @app.route("/predict", methods=["POST"])
 def predict():
@@ -17,15 +21,18 @@ def predict():
         return jsonify({"error": "No image uploaded"}), 400
 
     image_file = request.files["image"]
+
+    if not allowed_file(image_file.filename):
+        return jsonify({"error": "Unsupported file type. Please upload a PNG, JPG, or JPEG file."}), 400
+
     image_bytes = image_file.read()
 
-    # Predict disease
     prediction = model.predict(image_bytes)
 
-    # Get care recommendations
     care_info = CARE_RECOMMENDATIONS.get(
         prediction["class"],
         {
+            "general_info": "This is some general information about the plant disease.",
             "general_care": "Consult a local agricultural expert for specific care instructions.",
             "treatment": "No specific treatment found.",
             "prevention": "Maintain good plant hygiene and monitoring.",
