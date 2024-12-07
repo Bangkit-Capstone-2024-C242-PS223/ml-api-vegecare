@@ -1,227 +1,227 @@
 {
-  "Cabai__Healthy": {
+  "Cabai__Sehat": {
     "general_info": "Tanaman cabai yang sehat menunjukkan pertumbuhan optimal tanpa adanya gejala penyakit atau serangan hama",
     "general_care": "Lakukan inspeksi rutin terhadap tanaman dan pertahankan jadwal penyiraman yang konsisten",
     "treatment": "Tidak ada perawatan khusus untuk cabai sehat",
     "prevention": "Teruskan praktik pertanian yang baik dan lakukan pemantauan hama secara berkala"
   },
-  "Cabai__Leaf_Curl": {
+  "Cabai__Daun Keriting": {
     "general_info": "Daun cabai menggulung sering disebabkan oleh serangan hama seperti kutu putih atau virus tertentu",
     "general_care": "Pastikan jarak tanam yang tepat dan monitor aktivitas hama secara rutin",
     "treatment": "Singkirkan daun yang terinfeksi dan gunakan insektisida berbahan aktif seperti neem oil atau imidacloprid",
     "prevention": "Tanam varietas cabai yang tahan penyakit dan kendalikan serangga vektor seperti kutu putih"
   },
-  "Cabai__Leaf_Spot": {
+  "Cabai__Bercak Daun": {
     "general_info": "Penyakit bercak daun pada cabai ditandai dengan bercak coklat hingga hitam pada daun yang dapat merusak jaringan daun",
     "general_care": "Hindari membasahi daun saat penyiraman dan buang sisa tanaman yang terinfeksi",
     "treatment": "Gunakan fungisida berbahan dasar tembaga untuk mengelola infeksi",
     "prevention": "Lakukan rotasi tanaman dan hindari menanam cabai di lahan yang pernah terinfeksi"
   },
-  "Cabai__Whitefly": {
+  "Cabai__Lalat Putih": {
     "general_info": "Kutu putih menyerang bagian bawah daun, menghisap cairan tanaman sehingga daun menguning dan keriting",
     "general_care": "Periksa bagian bawah daun secara rutin untuk mendeteksi keberadaan kutu putih",
     "treatment": "Gunakan perangkap lengket berwarna kuning dan semprotkan sabun insektisida atau minyak nimba",
     "prevention": "Perkenalkan predator alami seperti kepik atau lacewing untuk mengendalikan populasi kutu putih"
   },
-  "Cabai__Yellowish": {
+  "Cabai__Kuning": {
     "general_info": "Daun cabai yang menguning dapat disebabkan oleh kekurangan nutrisi seperti nitrogen, magnesium, atau zat besi",
     "general_care": "Pantau kadar nutrisi tanah dan pastikan tanaman mendapatkan pemupukan yang seimbang",
     "treatment": "Tambahkan pupuk kaya nitrogen atau nutrisi lain yang kurang jika diperlukan",
     "prevention": "Hindari penyiraman berlebihan dan gunakan tanah dengan drainase yang baik"
   },
-  "Kembang_Kol__Bacterial_Spot_Rot": {
+  "Kembang Kol__Bercak Bakteri": {
     "general_info": "Penyakit ini disebabkan oleh bakteri yang menyebabkan bercak-bercak kecil coklat hingga hitam pada daun dan batang yang dapat membesar dan menyebabkan jaringan tanaman membusuk",
     "general_care": "Hindari penanganan tanaman saat basah dan pastikan jarak tanam yang tepat untuk meningkatkan sirkulasi udara",
     "treatment": "Buang dan musnahkan bagian tanaman yang terinfeksi. Aplikasikan bakterisida berbahan dasar tembaga sesuai petunjuk",
     "prevention": "Gunakan benih yang bebas penyakit dan lakukan rotasi tanaman dengan tanaman non-kubis untuk mencegah akumulasi patogen di tanah"
   },
-  "Kembang_Kol__Black_Rot": {
+  "Kembang Kol__Busuk Hitam": {
     "general_info": "Disebabkan oleh bakteri Xanthomonas campestris pv. campestris, penyakit ini ditandai dengan lesi berbentuk V pada tepi daun yang mengarah ke dalam serta penghitaman jaringan pembuluh",
     "general_care": "Lakukan penyiraman di pangkal tanaman untuk mengurangi kelembapan pada daun dan hindari irigasi di atas daun",
     "treatment": "Segera cabut dan musnahkan tanaman yang terinfeksi. Disinfeksi alat-alat pertanian setelah digunakan",
     "prevention": "Tanam varietas yang tahan terhadap busuk hitam dan terapkan rotasi tanaman selama 3-4 tahun dengan tanaman non-kubis"
   },
-  "Kembang_Kol__Downy_Mildew": {
+  "Kembang Kol__Jamur Berembun": {
     "general_info": "Penyakit ini disebabkan oleh jamur Hyaloperonospora parasitica yang menyebabkan bercak kuning pada permukaan atas daun dan pertumbuhan jamur putih keabu-abuan di bagian bawah daun",
     "general_care": "Pastikan sirkulasi udara yang baik dengan menjaga jarak tanam dan hindari penyiraman di atas daun",
     "treatment": "Aplikasikan fungisida yang mengandung mancozeb atau chlorothalonil sesuai petunjuk",
     "prevention": "Gunakan varietas yang tahan terhadap embun bulu dan lakukan rotasi tanaman untuk mencegah infeksi ulang"
   },
-  "Kembang_Kol__Healthy": {
+  "Kembang Kol__Sehat": {
     "general_info": "Tanaman kembang kol yang sehat menunjukkan pertumbuhan optimal tanpa gejala penyakit atau serangan hama",
     "general_care": "Lakukan pemeliharaan rutin seperti penyiraman yang konsisten, pemupukan sesuai kebutuhan, dan penyiangan gulma",
     "treatment": "Tidak diperlukan perawatan khusus untuk tanaman yang sehat",
     "prevention": "Teruskan praktik pertanian yang baik, termasuk rotasi tanaman, sanitasi lahan, dan pemantauan rutin terhadap hama dan penyakit"
   },
-  "Lettuce__Bacterial": {
+  "Selada__Bakteri": {
     "general_info": "Penyakit busuk lunak pada selada disebabkan oleh bakteri Erwinia carotovora yang menyebabkan tepi daun berubah menjadi cokelat dan akhirnya layu",
     "general_care": "Hindari penanganan tanaman saat basah dan pastikan jarak tanam yang tepat untuk meningkatkan sirkulasi udara",
     "treatment": "Buang dan musnahkan bagian tanaman yang terinfeksi. Aplikasikan bakterisida sesuai petunjuk jika diperlukan",
     "prevention": "Gunakan benih yang bebas penyakit dan lakukan rotasi tanaman dengan tanaman non-selada untuk mencegah akumulasi patogen di tanah"
   },
-  "Lettuce__Fungal": {
+  "Selada__Jamur": {
     "general_info": "Penyakit busuk batang pada selada disebabkan oleh jamur Rhizoctonia solani yang membuat batang menjadi lunak dan berlendir",
     "general_care": "Jaga kebersihan lahan dan pastikan kelembapan tanah tidak berlebihan",
     "treatment": "Jika serangan parah, aplikasikan fungisida sesuai dosis yang dianjurkan",
     "prevention": "Lakukan rotasi tanaman dan hindari menanam selada di lahan yang sebelumnya terinfeksi"
   },
-  "Lettuce__Healthy": {
+  "Selada__Sehat": {
     "general_info": "Tanaman selada yang sehat menunjukkan pertumbuhan optimal tanpa gejala penyakit atau serangan hama",
     "general_care": "Lakukan pemeliharaan rutin seperti penyiraman yang konsisten, pemupukan sesuai kebutuhan, dan penyiangan gulma",
     "treatment": "Tidak diperlukan perawatan khusus untuk tanaman yang sehat",
     "prevention": "Teruskan praktik pertanian yang baik, termasuk rotasi tanaman, sanitasi lahan, dan pemantauan rutin terhadap hama dan penyakit"
   },
-  "Sawi__Hama_Ulat_Grayak": {
+  "Sawi__Hama Ulat Grayak": {
     "general_info": "Ulat grayak menyerang daun sawi, menyebabkan daun berlubang hingga habis, terutama di malam hari",
     "general_care": "Lakukan inspeksi rutin, jaga kebersihan lahan, dan lakukan penyiangan gulma",
     "treatment": "Kumpulkan ulat secara manual atau gunakan insektisida sesuai anjuran",
     "prevention": "Lakukan rotasi tanaman, tanam varietas tahan hama, dan perhatikan jarak tanam"
   },
-  "Sawi__Healthy": {
+  "Sawi__Sehat": {
     "general_info": "Tanaman sawi yang sehat memiliki daun hijau segar dan tumbuh optimal tanpa gejala penyakit",
     "general_care": "Lakukan penyiraman, pemupukan, dan penyiangan gulma secara rutin",
     "treatment": "Tidak diperlukan perawatan khusus",
     "prevention": "Gunakan benih berkualitas, rotasi tanaman, dan sanitasi lahan secara berkala"
   },
-  "Terong__Healthy_Leaf": {
+  "Terong__Sehat": {
     "general_info": "Daun terong yang sehat berwarna hijau segar tanpa gejala penyakit atau kerusakan akibat hama",
     "general_care": "Lakukan penyiraman, pemupukan, dan pastikan tanaman mendapatkan sinar matahari yang cukup",
     "treatment": "Tidak diperlukan perawatan khusus untuk daun yang sehat",
     "prevention": "Pantau secara rutin untuk mendeteksi dini gejala penyakit atau serangan hama"
   },
-  "Terong__Insect_Pest_Disease": {
+  "Terong__Hama Kutu Daun": {
     "general_info": "Hama seperti kutu daun, kumbang daun, dan ulat grayak menyebabkan kerusakan daun berupa lubang atau deformasi",
     "general_care": "Lakukan inspeksi rutin dan jaga kebersihan lahan dengan sanitasi serta penyiangan gulma",
     "treatment": "Kumpulkan dan musnahkan hama secara manual, atau gunakan insektisida sesuai anjuran",
     "prevention": "Lakukan rotasi tanaman, gunakan varietas tahan hama, dan perhatikan jarak tanam yang ideal"
   },
-  "Terong__Leaf_Spot_Disease": {
+  "Terong__Bercak Daun": {
     "general_info": "Penyakit bercak daun disebabkan oleh jamur Cercospora sp., ditandai bercak cokelat kehitaman pada daun",
     "general_care": "Hindari penyiraman yang membasahi daun dan lakukan sanitasi lahan secara teratur",
     "treatment": "Aplikasikan fungisida yang sesuai untuk mengendalikan infeksi",
     "prevention": "Gunakan benih tahan penyakit dan lakukan rotasi tanaman untuk mencegah akumulasi patogen"
   },
-  "Terong__Mosaic_Virus_Disease": {
+  "Terong__Virus Mosaik": {
     "general_info": "Virus mosaik menyebabkan pola bercak hijau muda dan tua pada daun serta deformasi daun",
     "general_care": "Monitor tanaman secara rutin untuk mendeteksi gejala awal infeksi virus",
     "treatment": "Cabut dan musnahkan tanaman yang terinfeksi untuk mencegah penyebaran",
     "prevention": "Gunakan benih bebas virus, kendalikan vektor seperti kutu daun, dan hindari penanaman dekat tanaman rentan"
   },
-  "Terong__Small_Leaf_Disease": {
+  "Terong__Daun Kecil": {
     "general_info": "Penyakit ini menyebabkan daun terong tumbuh lebih kecil, sering disebabkan oleh fitoplasma atau defisiensi nutrisi",
     "general_care": "Berikan nutrisi yang cukup melalui pemupukan dan perbaiki kondisi tanah jika diperlukan",
     "treatment": "Cabut dan musnahkan tanaman yang terinfeksi jika disebabkan oleh infeksi",
     "prevention": "Gunakan benih sehat, lakukan rotasi tanaman, dan kendalikan vektor penular"
   },
-  "Terong__White_Mold_Disease": {
+  "Terong__Jamur Putih": {
     "general_info": "Penyakit ini disebabkan oleh jamur Sclerotinia sclerotiorum yang menghasilkan jamur putih pada batang dan daun",
     "general_care": "Hindari kelembapan berlebih dengan memastikan sirkulasi udara baik dan menghindari penyiraman berlebihan",
     "treatment": "Aplikasikan fungisida yang sesuai untuk mengendalikan infeksi jamur",
     "prevention": "Lakukan rotasi tanaman dengan tanaman non-inang dan musnahkan sisa tanaman yang terinfeksi"
   },
-  "Terong__Wilt_Disease": {
+  "Terong__Layu": {
     "general_info": "Penyakit layu disebabkan oleh bakteri Ralstonia solanacearum atau jamur Fusarium oxysporum, menyebabkan tanaman layu mendadak",
     "general_care": "Pastikan drainase lahan baik untuk mencegah genangan air dan hindari kerusakan akar",
     "treatment": "Cabut dan musnahkan tanaman yang terinfeksi untuk mencegah penyebaran patogen",
     "prevention": "Gunakan varietas tahan penyakit layu, lakukan rotasi tanaman, dan sterilkan peralatan pertanian"
   },
-  "Timun__Anthracnose": {
+  "Timun__Antraknosa": {
     "general_info": "Penyakit antraknosa pada mentimun disebabkan oleh jamur *Colletotrichum lagenarium*, yang menyebabkan bercak-bercak cokelat hingga hitam pada daun, batang, dan buah.",
     "general_care": "Hindari penyiraman dari atas yang membasahi daun dan pastikan sirkulasi udara yang baik di sekitar tanaman.",
     "treatment": "Aplikasikan fungisida yang sesuai dan direkomendasikan untuk mengendalikan infeksi jamur.",
     "prevention": "Gunakan benih yang bebas penyakit, lakukan rotasi tanaman, dan musnahkan sisa-sisa tanaman yang terinfeksi dari lahan."
   },
-  "Timun__Bacterial_Wilt": {
+  "Timun__Layu Bakteri": {
     "general_info": "Penyakit layu bakteri pada mentimun disebabkan oleh *Erwinia tracheiphila*, yang ditularkan oleh kumbang mentimun, menyebabkan tanaman layu mendadak dan mati.",
     "general_care": "Monitor keberadaan kumbang mentimun dan singkirkan secara manual jika ditemukan.",
     "treatment": "Cabut dan musnahkan tanaman yang terinfeksi untuk mencegah penyebaran.",
     "prevention": "Kendalikan populasi kumbang mentimun melalui penggunaan insektisida yang direkomendasikan dan praktik sanitasi yang baik."
   },
-  "Timun__Belly_Rot": {
+  "Timun__Perut Busuk": {
     "general_info": "Penyakit busuk perut pada mentimun disebabkan oleh jamur *Rhizoctonia solani*, yang menyebabkan busuk pada bagian bawah buah yang bersentuhan dengan tanah.",
     "general_care": "Gunakan mulsa plastik atau organik untuk mencegah kontak langsung antara buah dan tanah.",
     "treatment": "Aplikasikan fungisida yang sesuai jika gejala awal terdeteksi.",
     "prevention": "Pastikan drainase tanah yang baik dan hindari penyiraman berlebihan."
   },
-  "Timun__Downy_Mildew": {
+  "Timun__Jamur Berembun": {
     "general_info": "Penyakit embun bulu pada mentimun disebabkan oleh *Pseudoperonospora cubensis*, yang menyebabkan bercak kuning pada daun yang kemudian menjadi cokelat.",
     "general_care": "Hindari penyiraman dari atas dan pastikan sirkulasi udara yang baik.",
     "treatment": "Aplikasikan fungisida yang sesuai dan direkomendasikan untuk mengendalikan infeksi.",
     "prevention": "Gunakan varietas yang tahan penyakit dan lakukan rotasi tanaman."
   },
-  "Timun__Fresh_Leaf": {
+  "Timun__Sehat": {
     "general_info": "Daun mentimun yang sehat berwarna hijau segar tanpa gejala penyakit atau kerusakan akibat hama.",
     "general_care": "Lakukan penyiraman dan pemupukan secara teratur sesuai kebutuhan tanaman.",
     "treatment": "Tidak diperlukan perawatan khusus untuk daun yang sehat.",
     "prevention": "Pantau secara rutin untuk mendeteksi dini gejala penyakit atau serangan hama."
   },
-  "Timun__Gummy_Stem_Blight": {
+  "Timun__Batang Busuk Bergetah": {
     "general_info": "Penyakit bercak batang bergetah pada mentimun disebabkan oleh jamur *Didymella bryoniae*, yang menyebabkan bercak cokelat pada batang dan daun serta eksudat getah.",
     "general_care": "Hindari penyiraman dari atas dan pastikan sirkulasi udara yang baik.",
     "treatment": "Aplikasikan fungisida yang sesuai dan direkomendasikan untuk mengendalikan infeksi.",
     "prevention": "Gunakan benih yang bebas penyakit dan lakukan rotasi tanaman."
   },
-  "Timun__Pythium_Fruit_Rot": {
+  "Timun__Buah Busuk Pythium": {
     "general_info": "Penyakit busuk buah pada mentimun disebabkan oleh jamur *Pythium spp.*, yang menyebabkan busuk basah pada buah.",
     "general_care": "Pastikan drainase tanah yang baik dan hindari penyiraman berlebihan.",
     "treatment": "Aplikasikan fungisida yang sesuai jika gejala awal terdeteksi.",
     "prevention": "Gunakan mulsa untuk mencegah kontak langsung antara buah dan tanah serta lakukan rotasi tanaman."
   },
-  "Tomato__Bacterial_Spot": {
+  "Tomat__Bercak Bakteri": {
     "general_info": "Penyakit ini disebabkan oleh bakteri Xanthomonas campestris pv. vesicatoria, yang menyebabkan bercak-bercak gelap pada daun dan buah tomat.",
     "general_care": "Hindari penyiraman dari atas yang membasahi daun dan pastikan sirkulasi udara yang baik di sekitar tanaman.",
     "treatment": "Aplikasikan fungisida berbahan dasar tembaga secara teratur untuk mengendalikan penyebaran bakteri.",
     "prevention": "Gunakan benih yang bebas penyakit dan lakukan rotasi tanaman untuk mencegah akumulasi patogen di tanah."
   },
-  "Tomato__Early_Blight": {
+  "Tomat__Hawar Daun": {
     "general_info": "Disebabkan oleh jamur Alternaria solani, penyakit ini menyebabkan bercak cokelat pada daun yang dapat menghambat pertumbuhan tanaman.",
     "general_care": "Hindari penyiraman dari atas dan pastikan tanaman memiliki jarak tanam yang cukup untuk sirkulasi udara.",
     "treatment": "Aplikasikan fungisida yang sesuai jika gejala awal terdeteksi.",
     "prevention": "Lakukan rotasi tanaman dan gunakan varietas tomat yang tahan terhadap penyakit ini."
   },
-  "Tomato__Healthy": {
+  "Tomat__Sehat": {
     "general_info": "Tanaman tomat yang sehat menunjukkan pertumbuhan optimal tanpa adanya gejala penyakit atau serangan hama.",
     "general_care": "Lakukan penyiraman dan pemupukan secara teratur sesuai kebutuhan tanaman.",
     "treatment": "Tidak diperlukan perawatan khusus untuk tanaman yang sehat.",
     "prevention": "Pantau secara rutin untuk mendeteksi dini gejala penyakit atau serangan hama."
   },
-  "Tomato__Late_Blight": {
+  "Tomat__Hawar Lanjut": {
     "general_info": "Penyakit ini disebabkan oleh Phytophthora infestans, yang menyebabkan bercak cokelat pada daun dan buah, serta dapat menyebabkan kematian tanaman.",
     "general_care": "Hindari penyiraman dari atas dan pastikan sirkulasi udara yang baik.",
     "treatment": "Aplikasikan fungisida yang sesuai jika gejala awal terdeteksi.",
     "prevention": "Gunakan varietas yang tahan terhadap hawar akhir dan lakukan rotasi tanaman."
   },
-  "Tomato__Leaf_Mold": {
+  "Tomat__Jamur Daun": {
     "general_info": "Disebabkan oleh jamur Cladosporium fulvum, penyakit ini menyebabkan bercak kuning pada daun yang kemudian berubah menjadi cokelat.",
     "general_care": "Pastikan sirkulasi udara yang baik dan hindari kelembapan berlebih.",
     "treatment": "Aplikasikan fungisida yang sesuai jika gejala awal terdeteksi.",
     "prevention": "Gunakan varietas yang tahan terhadap jamur daun dan hindari penyiraman dari atas."
   },
-  "Tomato__Septoria_Leaf_Spot": {
+  "Tomat__Bercak Daun Septoria": {
     "general_info": "Penyakit ini disebabkan oleh jamur Septoria lycopersici, yang menyebabkan bercak kecil berwarna cokelat pada daun.",
     "general_care": "Hindari penyiraman dari atas dan pastikan sirkulasi udara yang baik.",
     "treatment": "Aplikasikan fungisida yang sesuai jika gejala awal terdeteksi.",
     "prevention": "Lakukan rotasi tanaman dan buang daun yang terinfeksi segera."
   },
-  "Tomato__Spider_Mites": {
+  "Tomat__Kutu Laba-laba": {
     "general_info": "Hama ini menyebabkan daun menguning dan munculnya jaring halus pada tanaman.",
     "general_care": "Pantau tanaman secara rutin dan jaga kelembapan yang cukup.",
     "treatment": "Gunakan akarisida yang sesuai jika populasi tinggi.",
     "prevention": "Hindari kondisi kering dan berdebu yang dapat meningkatkan populasi tungau."
   },
-  "Tomato__Target_Spot": {
+  "Tomat__Bercak Target": {
     "general_info": "Disebabkan oleh jamur Corynespora cassiicola, penyakit ini menyebabkan bercak cokelat pada daun dan buah.",
     "general_care": "Hindari penyiraman dari atas dan pastikan sirkulasi udara yang baik.",
     "treatment": "Aplikasikan fungisida yang sesuai jika gejala awal terdeteksi.",
     "prevention": "Lakukan rotasi tanaman dan gunakan varietas yang tahan terhadap penyakit ini."
   },
-  "Tomato__Tomato_Mosaic_Virus": {
+  "Tomat__Virus Mosaik": {
     "general_info": "Virus ini menyebabkan daun menguning dan munculnya pola mosaik pada daun.",
     "general_care": "Hindari kontak dengan tembakau dan sanitasi alat pertanian.",
     "treatment": "Cabut dan musnahkan tanaman yang terinfeksi.",
     "prevention": "Gunakan benih yang bebas virus dan hindari kontak dengan tembakau."
   },
-  "Tomato__Tomato_Yellow_Leaf_Curl_Virus": {
+  "Tomat__Kuning Keriting": {
     "general_info": "Virus ini menyebabkan daun menguning dan mengeriting, serta pertumbuhan tanaman terhambat.",
     "general_care": "Pantau keberadaan vektor seperti kutu kebul.",
     "treatment": "Gunakan insektisida yang sesuai untuk mengendalikan vektor.",
