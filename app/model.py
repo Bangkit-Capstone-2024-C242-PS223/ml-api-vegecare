@@ -71,11 +71,11 @@ class VegeCareModel:
         predicted_class = self.classes[predicted_class_index]
         confidence = float(predictions[0][predicted_class_index])
 
-    plant_name, condition = self.parse_prediction(predicted_class)
+        plant_name, condition = self.parse_prediction(predicted_class)
 
-    return {
-        "plant_name": plant_name,
-        "condition": condition,
-        "confidence": confidence
-    }
+        return {
+            "plant_name": plant_name,
+            "condition": condition,
+            "confidence": confidence
+        }
 
