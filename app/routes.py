@@ -57,10 +57,10 @@ def predict():
             "confidence": prediction["confidence"],
         },
         "plant_care": {
-            "general_info": care_info.get("general_info", "No information available"),
-            "general_care": care_info.get("general_care", "No specific care instructions"),
-            "treatment": care_info.get("treatment", "No special treatment"),
-            "prevention": care_info.get("prevention", "Continue standard plant care practices"),
+            "general_info": care_info.get("general_info"),
+            "general_care": care_info.get("general_care"),
+            "treatment": care_info.get("treatment"),
+            "prevention": care_info.get("prevention"),
         },
     }
 
