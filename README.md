@@ -43,3 +43,9 @@ Output example:
     }
 }
 ```
+
+## Docker Deployment
+```bash
+bashCopydocker build -t vegecare-api .
+docker run -p 5000:5000 vegecare-api
+```
